@@ -1,0 +1,7 @@
+flask
+telethon
+cryptg
+uvloop
+asyncio
+nest_asyncio
+pymongo
